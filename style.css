@@ -32,6 +32,7 @@
  text-align: center;
 }
 h1{
+ font-family: 'Outfit' !important;
  font-size: 22px;
  font-weight: 700;
  margin-top: 20px;
@@ -41,6 +42,7 @@ h1{
  
 }
 p{
+ font-family: 'Outfit' !important;
  margin: 1rem 0;
  font-size: 15px;
  font-weight: 400;
